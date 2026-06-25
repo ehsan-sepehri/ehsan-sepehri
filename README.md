@@ -1,7 +1,7 @@
 #Hi , Wellcome To My Github .
 <br><br>
 
-<h1>Abut Me :</h1>
+<h1>About Me :</h1>
 
 ``` python
 while name == "ehsan seperhi" :
