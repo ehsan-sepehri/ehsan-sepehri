@@ -1,4 +1,21 @@
-## Hi there 👋
+#Hi , Wellcome To My Github .
+<br><br>
+
+<h1>Abut Me :</h1>
+
+``` python
+while name == "ehsan seperhi" :
+    Pronouns = "He"
+    Langs = ["Python","Javascript"]
+    My_interests = ["Web","Ai"]
+    Learning = "backend website"
+    Education = "Computer engineering" 
+```
+    
+
+<h2>Teach Stack :</h2>
+<br>
+
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -14,6 +31,10 @@
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+
+<br><br><br><br><br>
+-
+<br><br>
 <p style="display:flex" margin-left:100;">
 <img src="https://github-readme-stats.vercel.app/api?username=ehsan-sepehri&show_icons=true&theme=radical" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-sepehri&stats_format=percentages">
