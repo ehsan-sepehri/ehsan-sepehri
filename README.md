@@ -34,9 +34,11 @@ while name == "ehsan seperhi" :
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 
 <br><br><br><br><br>
--
-<br><br>
+<hr>
 <p style="display:flex" margin-left:100;">
 <img src="https://github-readme-stats.vercel.app/api?username=ehsan-sepehri&show_icons=true&theme=radical" >
+</p>
+<hr>
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-sepehri&stats_format=percentages">
 </p>
