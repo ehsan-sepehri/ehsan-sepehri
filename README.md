@@ -9,7 +9,8 @@ while name == "ehsan seperhi" :
     Langs = ["Python","Javascript"]
     My_interests = ["Web","Ai"]
     Learning = "backend website"
-    Education = "Computer engineering" 
+    Education = "Computer engineering"
+    City = "Gorgan
 ```
     
 
