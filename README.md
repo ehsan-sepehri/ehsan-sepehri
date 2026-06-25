@@ -6,6 +6,7 @@
 ``` python
 while name == "ehsan seperhi" :
     Pronouns = "He" or "him"
+    Age = 23
     Langs = ["Python","Javascript"]
     My_interests = ["Web","Ai"]
     Learning = "backend website"
